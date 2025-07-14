@@ -3,7 +3,7 @@
 > 🐾 Local client to securely connect your VRChat bots to nebuline
 
 ![Node.js](https://img.shields.io/badge/Node.js-20.x-green?logo=node.js)
-![Socket.io](https://img.shields.io/badge/Socket.io-%E2%8C%A8%EF%B8%8F-lightgrey?logo=socket.io)
+![Socket.io](https://img.shields.io/badge/socket.io-4.8.1-010101?logo=socket.io)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Issues](https://img.shields.io/github/issues/lunatine-dev/nebuline-host)
 ![Stars](https://img.shields.io/github/stars/lunatine-dev/nebuline-host?style=social)
